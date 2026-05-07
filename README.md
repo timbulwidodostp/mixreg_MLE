@@ -1,6 +1,8 @@
 # mixreg_MLE
 MLE (Maximum Likelihood Estimation) of Mixture Regression with Normal Errors Use mixreg (MixSemiRob) With (In) R Software
 
+https://www.youtube.com/watch?v=omCexYCLAtc
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
